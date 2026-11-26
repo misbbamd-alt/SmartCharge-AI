@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SmartCharge-AI
 AI-powered EV charger sharing platform
 
@@ -40,3 +41,6 @@ Developed collaboratively by a team of three members.
 
 ## Project Objective
 To develop an intelligent EV charger-sharing platform that improves charger accessibility through web technologies, data science, machine learning and AI.
+=======
+
+>>>>>>> 73db5f27edfd7a9e8f8645aabfb37888ab174527
